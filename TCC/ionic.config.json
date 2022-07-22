@@ -1,0 +1,7 @@
+{
+  "name": "BoschMaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
